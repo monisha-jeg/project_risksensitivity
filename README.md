@@ -1,5 +1,5 @@
 # Risk-Sensitivity in Multi-Armed Bandits
-## Course Project: Multi-Armed Bandits
+### Course Project: Multi-Armed Bandits
 ### Authors: Monisha Jegadeesan, Shreyas Chaudhari
 
 The following risk-measures and algorithms are implemented for the multi-armed bandit setting:
@@ -21,4 +21,4 @@ Multi-Armed Risk-Aware Bandit (MARAB) <br>
 Multi-Armed Risk-Aware Bandit OUThandled (MARABOUT) <br>
 cVAR-ETC (Conditional Variance - Explore-then-Commit)
 
-A detailed report on the analysis of these measures and algorithms can be found [here](https://drive.google.com/file/d/1k_VP6LrwvLj6L1Am11AqNc_FoSp9gzQk/view?usp=sharing). 
+#### A detailed report on the analysis of these measures and algorithms can be found [here](https://drive.google.com/file/d/1k_VP6LrwvLj6L1Am11AqNc_FoSp9gzQk/view?usp=sharing). 
